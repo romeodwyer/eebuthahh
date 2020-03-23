@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chemaefoh.momentum.sydney/sitemap.xml
